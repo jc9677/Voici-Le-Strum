@@ -21,7 +21,7 @@
 //
 // Full repository with hardware information:
 // https://github.com/hotchk155/Voici-Le-Strum
-//jc was her
+//
 // Ver Date 
 // 0   16Jun2013 Initial baseline release for new PCB
 // 1   23Jun2013 First release
